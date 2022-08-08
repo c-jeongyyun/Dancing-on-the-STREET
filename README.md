@@ -23,5 +23,12 @@ git clone https://github.com/c-jeongyyun/Welcome-to-CS-Forest.git
 
 <br/>
 
+## 🚩 플레이 방법
+마우스로 플레이 하는 게임입니다. 
+
+클릭 없이 마우스를 좌우로 이동하여 바(bar)를 움직일 수 있습니다. 
+
+<br/>
+
 ## 🛠 기술 스택 
 - Language : JavaScript, CSS, HTML
